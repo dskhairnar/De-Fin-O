@@ -44,14 +44,13 @@ Find the start the tutorial here:
 
 Clone the repository:
 
-```bash
-git clone https://github.com/stellar/basic-payment-app.git
-```
+
+
 
 Change into the repository app:
 
 ```bash
-cd basic-payment-app
+cd De-Fin-o
 ```
 
 Install dependencies and start the development server.
